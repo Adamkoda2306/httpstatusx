@@ -1,3 +1,7 @@
+[![PyPI version](https://badge.fury.io/py/httpstatusx.svg)](https://pypi.org/project/httpstatusx/)
+[![CI](https://github.com/Adamkoda2306/httpstatusx/actions/workflows/ci.yml/badge.svg)](https://github.com/Adamkoda2306/httpstatusx/actions)
+[![Python versions](https://img.shields.io/pypi/pyversions/httpstatusx)](https://pypi.org/project/httpstatusx/)
+
 # httpstatusx 🚦
 
 **httpstatusx** is a semantic, bidirectional, and framework-agnostic Python library for working with HTTP status codes.
