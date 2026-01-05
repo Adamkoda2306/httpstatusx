@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "httpstatusx"
-version = "1.0.2"
+version = "1.0.0"
 description = "Semantic, bidirectional HTTP status abstraction with CLI and framework support"
 authors = [{name="Koda Adam", email="adam.koda2995@gmail.com"}]
 readme = "README.md"
